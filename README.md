@@ -5,7 +5,6 @@ type Me struct{
   Code string
   Job string
   BestAndFavoriteSkill string
-  SweetHeart string
   Twitter string
 }
 
