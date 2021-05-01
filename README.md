@@ -10,7 +10,7 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Security Researcher and Full stack developer",
+    Job: "Web Security Researcher and Full stack developer",
     Code: "Python,Go and Everythings",
     BestAndFavoriteSkill: "Web,Mobile Hacking :D",
     Twitter: "https://twitter.com/ArbazKiraak"
