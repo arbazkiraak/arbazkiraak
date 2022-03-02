@@ -6,6 +6,7 @@ type Me struct{
   Job string
   BestAndFavoriteSkill string
   Twitter string
+  ENS string
 }
 
 func main() {
@@ -13,7 +14,8 @@ func main() {
     Job: "Web2 & Web3 Security",
     Code: "Python,Go and Everythings",
     BestAndFavoriteSkill: "Web,Smart contract hacking",
-    Twitter: "https://twitter.com/ArbazKiraak"
+    Twitter: "https://twitter.com/ArbazKiraak",
+    ENS: "arbaz.eth"
   }
   _ = me
 }
