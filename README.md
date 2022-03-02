@@ -10,9 +10,9 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Web Security Researcher and Full stack developer",
+    Job: "Web2 & Web3 Security",
     Code: "Python,Go and Everythings",
-    BestAndFavoriteSkill: "Web,Mobile Hacking :D",
+    BestAndFavoriteSkill: "Web,Smart contract hacking",
     Twitter: "https://twitter.com/ArbazKiraak"
   }
   _ = me
